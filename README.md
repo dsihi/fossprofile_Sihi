@@ -1,2 +1,2 @@
 # fossprofile_Sihi
-THis is my profile for foss2020.
+This is my profile for foss2020.
